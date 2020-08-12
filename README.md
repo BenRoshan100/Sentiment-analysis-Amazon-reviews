@@ -27,7 +27,7 @@ I have good experience working with numerical and it is also easy to work and ma
 [<img target="_blank" src="https://i.redd.it/c6h7rok9c2v31.jpg" width=270>](https://pandas.pydata.org/) [<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NumPy_logo.svg/1280px-NumPy_logo.svg.png" width=200>](https://numpy.org/)
 [<img target="_blank" src="https://miro.medium.com/max/418/1*WssnLJ__IAUURwqms-I8LA.png" width=270>](https://towardsdatascience.com/natural-language-processing-nlp-for-electronic-health-record-ehr-part-i-4cb1d4c2f24b)
 
-## Team
+## Author
 [![Ben Roshan](https://avatars3.githubusercontent.com/u/62639456?s=460&u=2f7454bee8febbbeb84a2d2111523815a1f809cb&v=4)](https://www.linkedin.com/in/benroshan100/) |
 -|
 [Ben Roshan](https://www.linkedin.com/in/benroshan100/) |)
